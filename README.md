@@ -1,5 +1,5 @@
 Github action for linting the C++ code.
-Uses clang-tidy and cppcheck.
+Uses clang-tidy.
 
 Example of usage:
 ```
